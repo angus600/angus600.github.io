@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zihao Guo"
+title                    : "about me"
 title_separator          : "-"
 name                     : &name "Zihao Guo"
 description              : &description "Zihao Guo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zihao Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student of the Computer College of CSUST"
+  bio              : "Graduate student of the CS of CSUST"
   location         : "China"
   employer         : "Changsha University of Science and Technology"
   uri              : # URL
